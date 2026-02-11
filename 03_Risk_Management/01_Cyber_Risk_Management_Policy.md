@@ -33,8 +33,6 @@ organization’s approved Cybersecurity Risk Appetite Statement.
 
 ## 6. Regulatory Alignment
 This policy aligns with:
-• :contentReference[oaicite:0]{index=0}
-• :contentReference[oaicite:1]{index=1} guidance
 • ISO/IEC 27001
 
 ## 7. Review Cycle
