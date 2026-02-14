@@ -120,79 +120,65 @@ Cybersecurity-GRC-Capstone-Financial/
     ├── Key Decisions & Recommendations
     └── Strategic Roadmap
 
+## 🧠 Key Skills Demonstrated
 
-🧠 Key Skills Demonstrated
-🔹 Governance
+### 🔹 Governance
+- Board oversight models  
+- Executive accountability  
+- Risk appetite definition  
 
-Board oversight models
+### 🔹 Risk Management
+- Enterprise cyber risk lifecycle  
+- Financial risk registers  
+- Third-party risk management  
 
-Executive accountability
+### 🔹 Controls & Compliance
+- Multi-framework control mapping  
+- Policy & standard development  
+- Control effectiveness thinking  
 
-Risk appetite definition
+### 🔹 Metrics & Reporting
+- KPIs vs KRIs  
+- Executive dashboards  
+- Board-level assurance reporting  
 
-🔹 Risk Management
+### 🔹 Audit & Assurance
+- Risk-based audit planning  
+- Control testing methodology  
+- Regulatory examination readiness  
 
-Enterprise cyber risk lifecycle
+### 🔹 Incident Response
+- Crisis management  
+- Regulatory notification logic  
+- Tabletop exercises  
+- Continuous improvement  
 
-Financial risk registers
+---
 
-Third-party risk management
-
-🔹 Controls & Compliance
-
-Multi-framework control mapping
-
-Policy & standard development
-
-Control effectiveness thinking
-
-🔹 Metrics & Reporting
-
-KPIs vs KRIs
-
-Executive dashboards
-
-Board-level assurance reporting
-
-🔹 Audit & Assurance
-
-Risk-based audit planning
-
-Control testing methodology
-
-Regulatory examination readiness
-
-🔹 Incident Response
-
-Crisis management
-
-Regulatory notification logic
-
-Tabletop exercises
-
-Continuous improvement
-
-🏆 Why This Project Is Different
+## 🏆 Why This Project Is Different
 
 This project shows:
+- ✅ Decision-making  
+- ✅ Business risk alignment  
+- ✅ Board-level thinking  
+- ✅ Audit & regulator realism  
 
-✅ decision-making
+This is how **CISOs expect GRC to work in practice**.
 
-✅ business risk alignment
+---
 
-✅ board-level thinking
+## 📌 Disclaimer
 
-✅ audit & regulator realism
-
-This is how CISOs expect GRC to work in practice.
-
-📌 Disclaimer
-
-This project is a simulated educational capstone designed to reflect real-world industry practices.
+This project is a **simulated educational capstone** designed to reflect real-world industry practices.  
 No real customer or organizational data is used.
 
-⭐ For recruiters, hiring managers, and GRC leaders
+---
 
-This repository demonstrates hands-on, practical Cybersecurity GRC capability suitable for regulated financial environments.
+## ⭐ For Recruiters, Hiring Managers, and GRC Leaders
 
-Author: Varrun Vashisht
+This repository demonstrates **hands-on, practical Cybersecurity GRC capability** suitable for regulated financial environments.
+
+---
+
+**Author:** Varrun Vashisht
+
