@@ -10,39 +10,40 @@ This repository contains a **full, end-to-end Cybersecurity Governance, Risk, an
 
 The project simulates **real-world enterprise implementation** of cybersecurity governance, risk management, compliance, audit, metrics, and incident response — exactly how it is expected in **banks, fintechs, and regulated financial institutions**.
 
-> 🎯 **Objective:**
+> 🎯 **Objective:**  
 > Demonstrate job-ready, hands-on GRC capability — not theoretical knowledge — suitable for **GRC Analyst, Senior GRC Analyst, Risk Analyst, and GRC Consultant roles**.
 
 ---
 
 ## 🏦 Business Context (Simulated Organization)
 
-**Organization:** FinTrust Capital
-**Industry:** Financial Services
+**Organization:** FinTrust Capital  
+**Industry:** Financial Services  
+
 **Operating Model:**
-• Digital banking
-• Payment processing
-• Cloud-hosted systems
-• Third-party fintech vendors
+- Digital banking
+- Payment processing
+- Cloud-hosted systems
+- Third-party fintech vendors
 
 **Regulatory Pressure:**
-• Financial regulators
-• Payment card security requirements
-• Board-level oversight
-• Audit and examination readiness
+- Financial regulators
+- Payment card security requirements
+- Board-level oversight
+- Audit and examination readiness
 
 ---
 
 ## 🎯 What This Project Demonstrates
 
-✔ Enterprise cybersecurity governance
-✔ Board & executive reporting
-✔ Risk-based decision making
-✔ Regulatory alignment
-✔ Control framework implementation
-✔ Audit & assurance readiness
-✔ Incident response & crisis management
-✔ CISO-level strategic thinking
+✔ Enterprise cybersecurity governance  
+✔ Board & executive reporting  
+✔ Risk-based decision making  
+✔ Regulatory alignment  
+✔ Control framework implementation  
+✔ Audit & assurance readiness  
+✔ Incident response & crisis management  
+✔ CISO-level strategic thinking  
 
 This project mirrors how **real GRC teams operate in production environments**.
 
@@ -52,12 +53,12 @@ This project mirrors how **real GRC teams operate in production environments**.
 
 This capstone integrates multiple industry-accepted frameworks using a **single control baseline approach**:
 
-• NIST Cybersecurity Framework – Program structure
-• NIST Risk Management Framework – Risk lifecycle
-• NIST SP 800-53 – Control baseline
-• ISO/IEC 27001 – ISMS alignment
-• PCI DSS – Payment security
-• FFIEC – Financial regulatory guidance
+- NIST Cybersecurity Framework – Program structure
+- NIST Risk Management Framework – Risk lifecycle
+- NIST SP 800-53 – Control baseline
+- ISO/IEC 27001 – ISMS alignment
+- PCI DSS – Payment security
+- FFIEC – Financial regulatory guidance
 
 ---
 
@@ -118,74 +119,80 @@ Cybersecurity-GRC-Capstone-Financial/
     ├── Compliance Status
     ├── Key Decisions & Recommendations
     └── Strategic Roadmap
-```
 
----
 
-## 🧠 Key Skills Demonstrated
+🧠 Key Skills Demonstrated
+🔹 Governance
 
-### 🔹 Governance
+Board oversight models
 
-• Board oversight models
-• Executive accountability
-• Risk appetite definition
+Executive accountability
 
-### 🔹 Risk Management
+Risk appetite definition
 
-• Enterprise cyber risk lifecycle
-• Financial risk registers
-• Third-party risk management
+🔹 Risk Management
 
-### 🔹 Controls & Compliance
+Enterprise cyber risk lifecycle
 
-• Multi-framework control mapping
-• Policy & standard development
-• Control effectiveness thinking
+Financial risk registers
 
-### 🔹 Metrics & Reporting
+Third-party risk management
 
-• KPIs vs KRIs
-• Executive dashboards
-• Board-level assurance reporting
+🔹 Controls & Compliance
 
-### 🔹 Audit & Assurance
+Multi-framework control mapping
 
-• Risk-based audit planning
-• Control testing methodology
-• Regulatory examination readiness
+Policy & standard development
 
-### 🔹 Incident Response
+Control effectiveness thinking
 
-• Crisis management
-• Regulatory notification logic
-• Tabletop exercises
-• Continuous improvement
+🔹 Metrics & Reporting
 
----
+KPIs vs KRIs
 
-## 🏆 Why This Project Is Different
+Executive dashboards
+
+Board-level assurance reporting
+
+🔹 Audit & Assurance
+
+Risk-based audit planning
+
+Control testing methodology
+
+Regulatory examination readiness
+
+🔹 Incident Response
+
+Crisis management
+
+Regulatory notification logic
+
+Tabletop exercises
+
+Continuous improvement
+
+🏆 Why This Project Is Different
 
 This project shows:
-✅ **decision-making**
-✅ **business risk alignment**
-✅ **board-level thinking**
-✅ **audit & regulator realism**
 
-This is how **CISOs expect GRC to work in practice**.
+✅ decision-making
 
----
+✅ business risk alignment
 
-## 📌 Disclaimer
+✅ board-level thinking
 
-This project is a **simulated educational capstone** designed to reflect real-world industry practices.
+✅ audit & regulator realism
+
+This is how CISOs expect GRC to work in practice.
+
+📌 Disclaimer
+
+This project is a simulated educational capstone designed to reflect real-world industry practices.
 No real customer or organizational data is used.
 
----
+⭐ For recruiters, hiring managers, and GRC leaders
 
-### ⭐ If you are a recruiter, hiring manager, or GRC leader:
+This repository demonstrates hands-on, practical Cybersecurity GRC capability suitable for regulated financial environments.
 
-This repository demonstrates **hands-on, practical Cybersecurity GRC capability** suitable for regulated financial environments.
-
----
-### Author: Varrun Vashisht 
-
+Author: Varrun Vashisht
