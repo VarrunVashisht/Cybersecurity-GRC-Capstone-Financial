@@ -187,5 +187,5 @@ No real customer or organizational data is used.
 This repository demonstrates **hands-on, practical Cybersecurity GRC capability** suitable for regulated financial environments.
 
 ---
-### ⭐⭐⭐ Author ⭐⭐⭐: Varrun Vashisht
+### Author ⭐⭐⭐: Varrun Vashisht 
 
